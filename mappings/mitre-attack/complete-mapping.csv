@@ -1,0 +1,8 @@
+# Complete MITRE ATT&CK Mapping
+
+Technique,AD-STG Control,Description
+T1087.002,AD-01.01,Domain Account Discovery
+T1069.002,AD-01.02,Domain Groups Discovery
+T1018,AD-01.03,Remote System Discovery
+T1558.003,AD-02.01,Kerberoasting
+T1558.004,AD-02.02,AS-REP Roasting
